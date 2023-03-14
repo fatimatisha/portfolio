@@ -23,7 +23,7 @@ $(document).ready(function()
 
     ///typing animate
     var typed = new Typed(".typing",{
-        strings: ["Web Developer","Web Designer","Blogger","Graphics Designer"],
+        strings: ["Web Developer","Web Designer","Software Tester","Photographer"],
         typeSpeed:100,
         backSpeed:60,
         loop:true
@@ -32,7 +32,7 @@ $(document).ready(function()
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["Web Developer","Web Designer","Blogger","Graphics Designer"],
+        strings: ["Web Developer","Web Designer","Software Tester","Photographer"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
